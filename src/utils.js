@@ -1,6 +1,6 @@
 export const getImageUrl = (path) => {
     console.log("Path argument received:", path); 
-    const relativePath = `/assets/${path}`;
+    const relativePath = `/public/assets/${path}`;
     console.log("Constructed relative path:", relativePath); 
     const urlObject = new URL(relativePath, import.meta.url);
     console.log("URL object:", urlObject);
