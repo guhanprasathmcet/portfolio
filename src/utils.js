@@ -1,11 +1,5 @@
 export const getImageUrl = (path) => {
-    console.log("Path argument received:", path); 
-    const relativePath = `/public/assets/${path}`;
-    console.log("Constructed relative path:", relativePath); 
-    const urlObject = new URL(relativePath, import.meta.url);
-    console.log("URL object:", urlObject);
-    console.log("Final URL href:", urlObject.href);
-    return urlObject.href;
+    return `/assets/${path}`;
 }
 
 //so basically what this function does is it takes the path we passed and send it to an URL class and we 
