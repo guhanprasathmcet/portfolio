@@ -1,0 +1,46 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Next.js",
+    "imageSrc": "skills/next.svg"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Spring Boot",
+    "imageSrc": "skills/spring-boot.png"
+  },
+  {
+    "title": "AWS - services",
+    "imageSrc": "skills/aws.png"
+  },
+    {
+    "title": "Azure services",
+    "imageSrc": "skills/azure.png"
+  },
+  {
+    "title": "Git and GitHub",
+    "imageSrc": "skills/git.png"
+  }
+]
